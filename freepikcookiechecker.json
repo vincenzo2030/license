@@ -9,5 +9,16 @@
         "universal-license": false,
         "lifetime": true,
         "valid": true
+    },
+    "freepil12272": {
+        "customer-name": "User1",
+        "processor_id": "BFEBFBFF000806C1",
+        "serial_number": "NBQQV11005442851AE3400",
+        "trial": false,
+        "billing-date": "2025-08-30",
+        "next-billing-date": "2025-08-31",
+        "universal-license": false,
+        "lifetime": true,
+        "valid": true
     }
 }
