@@ -1,1 +1,13 @@
-
+{
+    "7938bdj63n03": {
+        "customer-name": "Lucifer",
+        "processor_id": "BFEBFBFF000B0671",
+        "serial_number": "NBQQV11005442851AE3400",
+        "trial": false,
+        "billing-date": "2023-01-01",
+        "next-billing-date": "2025-05-10",
+        "universal-license": false,
+        "lifetime": false,
+        "valid": true
+    }
+}
