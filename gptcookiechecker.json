@@ -39,7 +39,7 @@
         "trial": false,
         "billing-date": "2025-09-05",
         "next-billing-date": "2025-09-05",
-        "universal-license": true,
+        "universal-license": false,
         "lifetime": true,
         "valid": true
     }
