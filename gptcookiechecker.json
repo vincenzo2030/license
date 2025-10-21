@@ -31,5 +31,16 @@
         "universal-license": false,
         "lifetime": true,
         "valid": true
+    },
+    "2329489038590834": {
+        "customer-name": "Lucifer",
+        "processor_id": "BFEBFBFF000B0671",
+        "serial_number": "NBQQV11005442851AE3400",
+        "trial": false,
+        "billing-date": "2025-09-05",
+        "next-billing-date": "2025-09-05",
+        "universal-license": true,
+        "lifetime": true,
+        "valid": true
     }
 }
